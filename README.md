@@ -2,4 +2,4 @@
 [ปก](ปก.md)  
 [SOP](SOP.md)  
 [Profile](Profile.md)  
-
+[วิชาการ](วิชาการ.md)
